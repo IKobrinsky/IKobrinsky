@@ -1,0 +1,22 @@
+.lightDiv {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: black;
+
+}
+
+.taskDiv
+{
+  display: flex;
+  position: relative;
+  width: 450px;
+}
+
+.methodDiv
+{
+margin-right:25px;
+width:200px;
+height:400px;
+}
+
